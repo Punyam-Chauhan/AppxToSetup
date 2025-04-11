@@ -1,7 +1,7 @@
 # AppxToSetup Maker By Punyam Chauhan
-Create traditional Setup.exe for your Appx package
 =================================================================
 
+Create Traditional Setup.exe for your Appx files
 
 >> INSTRUCTIONS <<
 
